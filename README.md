@@ -1,1 +1,1 @@
-# mysql-project
+# student database management system
